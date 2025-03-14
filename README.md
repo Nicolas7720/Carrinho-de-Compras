@@ -28,7 +28,7 @@ JavaScript Vanilla
 
 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/carrinho-de-compras.git
+git clone https://github.com/Nicolas7720/Carrinho-de-Compras
 
 
 2. Acesse o diretório do projeto:
